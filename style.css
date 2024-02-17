@@ -31,7 +31,6 @@ body {
     align-items: center;
     text-align: center;
     z-index: 99;
-    display: none;
 }
 
 
@@ -454,7 +453,7 @@ margin-left: 55vw;
             display: flex;
             flex-direction: column;
             
-    gap: 5 vw;
+    gap: 5vw;
     margin-right: 45vw;
         }
         
